@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
-<h2> Hey there! I'm Medina Licina.</h2>
+<h2> Hey there! I'm Medina Licina.Young developer from Serbia</h2>
 
-<h3> 👨🏻‍💻 &nbsp;A young Web Developer from Serbia </h3>
+<h3> 👨🏻‍💻 &nbsp;Something about me </h3>
 
 - 🤔 &nbsp; I am currently working on learning React..
 - 🎓 &nbsp; I'm going to medical school and I'm also studying Arabic
