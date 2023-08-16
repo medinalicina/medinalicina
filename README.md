@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/medina%20Vikram%20Singh%20Banner.png">
+# Welcome to my github! 👋
+
+<div align="center">
+	<img src="https://raw.githubusercontent.com/medinalicina/medinalicina/master/intro.gif">
+</div>
 
 <h2> Hey there! I'm Medina Licina.</h2>
 
