@@ -15,7 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medinalicina&show_icons=true&locale=en&layout=compact" alt="medinalicina" /></p>
 ### ✨ Visitors 
 
-<p align="markdown"> <img src="https://komarev.com/ghpvc/?username=medinalicina" alt="medinalicina" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=medinalicina" alt="medinalicina" /> </p>
 
 ### 📊 Profile stats
 
