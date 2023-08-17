@@ -1,5 +1,5 @@
 # Welcome to my github! 👋
-<h2>I'm Medina Licina.A young Web Developer from Serbia</h2>
+<h2>I'm Medina Licina. A young Web Developer from Serbia.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Something about me </h3>
 
@@ -17,7 +17,7 @@
 
 ### ✨ Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medinalicina" alt="medinalicina" /> </p>
+<p align="row"> <img src="https://komarev.com/ghpvc/?username=medinalicina" alt="medinalicina" /> </p>
 
 ### 📊 Profile stats
 
