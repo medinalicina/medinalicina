@@ -6,7 +6,7 @@
 - 🤔 &nbsp; I am currently working on learning React..
 - 🎓 &nbsp; I'm going to medical school and I'm also studying Arabic
 - 💼 &nbsp; I completed the It Camp course at company Centar Nit https://www.linkedin.com/company/centarnit/
-- 🌱 &nbsp; Contact me on medinalicina94@gmail.com
+- 🌱 &nbsp; Contact me on medinalicinaa@gmail.com
 - ✍️ &nbsp; While I study web development, I also have my hobby, making cakes, you can find me on Instagram as @candylaannd.
 
 <h3 align="left">Languages and Tools:</h3>
